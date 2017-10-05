@@ -1,0 +1,32 @@
+D:\netpro 2\aplikasi remote\aplikasi remote\bin\Debug\aplikasi remote.exe
+D:\netpro 2\aplikasi remote\aplikasi remote\bin\Debug\aplikasi remote.pdb
+D:\netpro 2\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form1.resources
+D:\netpro 2\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Properties.Resources.resources
+D:\netpro 2\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.csproj.GenerateResource.Cache
+D:\netpro 2\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.exe
+D:\netpro 2\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.pdb
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.exe
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.pdb
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.csprojResolveAssemblyReference.cache
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form1.resources
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Properties.Resources.resources
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.csproj.GenerateResource.Cache
+Z:\belajar\c#\aplikasi remote\aplikasi remote\bin\Debug\aplikasi remote.exe
+Z:\belajar\c#\aplikasi remote\aplikasi remote\bin\Debug\aplikasi remote.pdb
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form2.resources
+Z:\belajar\c#\aplikasi remote\aplikasi remote\bin\Debug\ScreenCapture.dll
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.exe
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.pdb
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\bin\Debug\aplikasi remote.exe
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\bin\Debug\aplikasi remote.pdb
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\bin\Debug\ScreenCapture.dll
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.csprojResolveAssemblyReference.cache
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form1.resources
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form2.resources
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form3.resources
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Properties.Resources.resources
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi remote.csproj.GenerateResource.Cache
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\bin\Debug\nqo-GN\aplikasi remote.resources.dll
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form3.nqo-GN.resources
+C:\Users\Public\share file\aplikasi remote\aplikasi remote\obj\x86\Debug\nqo-GN\aplikasi remote.resources.dll
+Z:\belajar\c#\aplikasi remote\aplikasi remote\obj\x86\Debug\aplikasi_remote.Form3.resources
